@@ -55,26 +55,6 @@ const STUDENTS = [
     linkedin: "https://www.linkedin.com/",
     cv: "https://drive.google.com/"
   },
-  {
-    name: "Koustav Ghosh Hazra",
-    image: "",
-    department: "ECE",
-    year: "2nd Year",
-    bio: "Built strong fundamentals in NumPy, Pandas, and model basics while exploring automation and applied AI use cases.",
-    github: "https://github.com/",
-    linkedin: "https://www.linkedin.com/",
-    cv: "https://drive.google.com/"
-  },
-  {
-    name: "Koustav Ghosh Hazra",
-    image: "",
-    department: "ECE",
-    year: "2nd Year",
-    bio: "Interested in computer vision and intelligent systems, with a project-first learning approach and clean coding practice.",
-    github: "https://github.com/",
-    linkedin: "https://www.linkedin.com/",
-    cv: "https://drive.google.com/"
-  }
 ];
 
 /* ==========================================
