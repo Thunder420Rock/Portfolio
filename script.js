@@ -51,10 +51,10 @@ const STUDENTS = [
     department: "ECE",
     year: "2nd Year",
     bio: "Focused on practical Python workflows and data-driven project development with a growing interest in ML engineering.",
-    github: "https://github.com/",
-    linkedin: "https://www.linkedin.com/",
+    github: "https://github.com/Thunder420Rock",
+    linkedin: "https://www.linkedin.com/in/koustav-ghosh-hazra-427352305?utm_source=share_via&utm_content=profile&utm_medium=member_android",
     cv: "https://drive.google.com/"
-  },
+  }
 ];
 
 /* ==========================================
